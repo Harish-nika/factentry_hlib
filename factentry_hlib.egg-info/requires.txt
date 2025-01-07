@@ -1,6 +1,0 @@
-icecream
-langdetect
-pandas
-pillow
-pymupdf
-pytesseract
