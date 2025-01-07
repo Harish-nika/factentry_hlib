@@ -1,0 +1,8 @@
+setup.py
+doc_analyser/__init__.py
+doc_analyser/doc_analyser.py
+factentry_hlib.egg-info/PKG-INFO
+factentry_hlib.egg-info/SOURCES.txt
+factentry_hlib.egg-info/dependency_links.txt
+factentry_hlib.egg-info/requires.txt
+factentry_hlib.egg-info/top_level.txt

@@ -1,0 +1,6 @@
+pymupdf
+pytesseract
+pandas
+langdetect
+pillow
+icecream
